@@ -1,7 +1,7 @@
 # A02Kovuri
 This is the website create by me(Revanth Kovuri).
 
-Open the "A01Kovuri" folder and then "Home.html" to open the created website.
+Open the "A02Kovuri" folder and then "Home.html" to open the created website.
 Then you will be redirected to the Home page of the website.
 
 When you click the "AboutMe" on the navigation bar, you will be redirected to the another page.which contains the Information about the developer.
